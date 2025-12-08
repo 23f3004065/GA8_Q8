@@ -2,7 +2,7 @@
 
 This report provides a detailed analysis of our company's Monthly Recurring Revenue (MRR) growth throughout 2024. The findings herein are intended to provide clarity on our current performance and guide strategic decisions to accelerate growth.
 
-**Analyst Contact:** 23f3004197@ds.study.iitm.ac.in
+**Analyst Contact:** 23f3000319@ds.study.iitm.ac.in
 
 ---
 
@@ -63,5 +63,6 @@ Before committing to a full-scale launch, we should run a lean pilot program in 
 * **Validate Product-Market Fit:** Confirm that our solution genuinely solves a problem for these new users.
 * **Gather Feedback:** Collect invaluable insights for product iteration.
 * **Build Case Studies:** Create powerful social proof and marketing assets that will be crucial for a wider launch.
+
 
 By strategically expanding into new markets, we can break through our current growth ceiling and build a more
